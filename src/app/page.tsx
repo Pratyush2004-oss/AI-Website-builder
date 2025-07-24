@@ -1,12 +1,9 @@
-import { Button } from '@/components/ui/button'
 import React from 'react'
 
 const App = () => {
   return (
-    <div>
-      <Button>Button</Button>
-    </div>
+    <div>App</div>
   )
 }
 
-export default App;
+export default App
